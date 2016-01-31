@@ -32,7 +32,7 @@ Subsets ```X_test``` and ```X_train``` columns only with needed features.
 For suitability script assigns feature names to columns of ```X_test``` and ```X_train```
 
 ### 5. Get activity labels
-This code chunk extracts activity labels stored in ```y_test``` and ```y_train``` and transforms them into factors in ```test_labes``` and ```train_labels```.
+This code chunk extracts activity labels stored in ```y_test``` and ```y_train``` and transforms them into factors in ```test_labels``` and ```train_labels```.
 
 ### 6. Add new columns
 Adds new columns to ```X_test``` and ```X_train```:
